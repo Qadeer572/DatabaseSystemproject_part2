@@ -1,0 +1,443 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|c:\\users\\administrator\\desktop\\awein2\\awein2\\awein2\\placement.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\placement.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\placementreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\placementreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\placementreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\placementreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothtrafficview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\boothtrafficview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothtrafficview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\boothtrafficview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\tpodashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\tpodashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\trafficmonitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\trafficmonitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\boothallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\tpodashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\tpodashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothtrafficview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\boothtrafficview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\careerconnect_jobfairmanagementdataset18.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\careerconnect_jobfairmanagementdataset18.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothcoordinatordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\boothcoordinatordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothcoordinatordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\boothcoordinatordashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\trafficmonitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\trafficmonitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\checkin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\boothallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\addingbooths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\addingbooths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\eventschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\eventschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\addingbooths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\addingbooths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothallocation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\boothallocation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\eventschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92685840-812B-4CA1-A8BC-D1B3475AB434}|awein2\\awein2.csproj|solutionrelative:awein2\\eventschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 62,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "placementReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\placementReport.cs",
+              "RelativeDocumentMoniker": "awein2\\placementReport.cs",
+              "ToolTip": "C:\\Users\\MP\\Data Strucutre\\awein2\\awein2\\placementReport.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\MP\\Data Strucutre\\awein2\\awein2\\placementReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:40:38.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "placement.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\placement.rdlc",
+              "RelativeDocumentMoniker": "awein2\\placement.rdlc",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\placement.rdlc [Design]",
+              "RelativeToolTip": "awein2\\placement.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-14T14:57:30.997Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report1.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\Report1.rdlc",
+              "RelativeDocumentMoniker": "awein2\\Report1.rdlc",
+              "ToolTip": "C:\\Users\\MP\\Data Strucutre\\awein2\\awein2\\Report1.rdlc [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\MP\\Data Strucutre\\awein2\\awein2\\Report1.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-14T15:20:29.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "boothTrafficView.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothTrafficView.cs",
+              "RelativeDocumentMoniker": "awein2\\boothTrafficView.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothTrafficView.cs",
+              "RelativeToolTip": "awein2\\boothTrafficView.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:25:05.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "boothTrafficView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothTrafficView.cs",
+              "RelativeDocumentMoniker": "awein2\\boothTrafficView.cs",
+              "ToolTip": "C:\\Users\\MP\\Data Strucutre\\awein2\\awein2\\boothTrafficView.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\MP\\Data Strucutre\\awein2\\awein2\\boothTrafficView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:24:36.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "placementReport.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\placementReport.cs",
+              "RelativeDocumentMoniker": "awein2\\placementReport.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\placementReport.cs",
+              "RelativeToolTip": "awein2\\placementReport.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAApwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:25:19.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tpoDashBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\tpoDashBoard.cs",
+              "RelativeDocumentMoniker": "awein2\\tpoDashBoard.cs",
+              "ToolTip": "C:\\Users\\MP\\Data Strucutre\\awein2\\awein2\\tpoDashBoard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\MP\\Data Strucutre\\awein2\\awein2\\tpoDashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:56:21.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "trafficMonitoring.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\trafficMonitoring.cs",
+              "RelativeDocumentMoniker": "awein2\\trafficMonitoring.cs",
+              "ToolTip": "C:\\Users\\MP\\Data Strucutre\\awein2\\awein2\\trafficMonitoring.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\MP\\Data Strucutre\\awein2\\awein2\\trafficMonitoring.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:08:15.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "boothAllocation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothAllocation.cs",
+              "RelativeDocumentMoniker": "awein2\\boothAllocation.cs",
+              "ToolTip": "C:\\Users\\MP\\Data Strucutre\\awein2\\awein2\\boothAllocation.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\MP\\Data Strucutre\\awein2\\awein2\\boothAllocation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:51:57.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "tpoDashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\tpoDashBoard.cs",
+              "RelativeDocumentMoniker": "awein2\\tpoDashBoard.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\tpoDashBoard.cs",
+              "RelativeToolTip": "awein2\\tpoDashBoard.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAASwEsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:27:20.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "boothTrafficView.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothTrafficView.Designer.cs",
+              "RelativeDocumentMoniker": "awein2\\boothTrafficView.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothTrafficView.Designer.cs",
+              "RelativeToolTip": "awein2\\boothTrafficView.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAxwF4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:51:10.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CareerConnect_JobFairManagementDataSet18.xsd",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\CareerConnect_JobFairManagementDataSet18.xsd",
+              "RelativeDocumentMoniker": "awein2\\CareerConnect_JobFairManagementDataSet18.xsd",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\CareerConnect_JobFairManagementDataSet18.xsd",
+              "RelativeToolTip": "awein2\\CareerConnect_JobFairManagementDataSet18.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-05-14T15:21:49.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "boothCoordinatorDashBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothCoordinatorDashBoard.cs",
+              "RelativeDocumentMoniker": "awein2\\boothCoordinatorDashBoard.cs",
+              "ToolTip": "C:\\Users\\MP\\Data Strucutre\\awein2\\awein2\\boothCoordinatorDashBoard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\MP\\Data Strucutre\\awein2\\awein2\\boothCoordinatorDashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:55:52.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "boothCoordinatorDashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothCoordinatorDashBoard.cs",
+              "RelativeDocumentMoniker": "awein2\\boothCoordinatorDashBoard.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothCoordinatorDashBoard.cs",
+              "RelativeToolTip": "awein2\\boothCoordinatorDashBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:31:38.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "trafficMonitoring.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\trafficMonitoring.cs",
+              "RelativeDocumentMoniker": "awein2\\trafficMonitoring.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\trafficMonitoring.cs",
+              "RelativeToolTip": "awein2\\trafficMonitoring.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAWwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:10:32.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "checkIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\checkIn.cs",
+              "RelativeDocumentMoniker": "awein2\\checkIn.cs",
+              "ToolTip": "C:\\Users\\MP\\Data Strucutre\\awein2\\awein2\\checkIn.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\MP\\Data Strucutre\\awein2\\awein2\\checkIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:08:25.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "checkIn.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\checkIn.cs",
+              "RelativeDocumentMoniker": "awein2\\checkIn.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\checkIn.cs",
+              "RelativeToolTip": "awein2\\checkIn.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:14:09.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "boothAllocation.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothAllocation.cs",
+              "RelativeDocumentMoniker": "awein2\\boothAllocation.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothAllocation.cs",
+              "RelativeToolTip": "awein2\\boothAllocation.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAhwL8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:52:53.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "addingBooths.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\addingBooths.cs",
+              "RelativeDocumentMoniker": "awein2\\addingBooths.cs",
+              "ToolTip": "C:\\Users\\MP\\Data Strucutre\\awein2\\awein2\\addingBooths.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\MP\\Data Strucutre\\awein2\\awein2\\addingBooths.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:14:20.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "eventSchedule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\eventSchedule.cs",
+              "RelativeDocumentMoniker": "awein2\\eventSchedule.cs",
+              "ToolTip": "C:\\Users\\MP\\Data Strucutre\\awein2\\awein2\\eventSchedule.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\MP\\Data Strucutre\\awein2\\awein2\\eventSchedule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:11:06.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "monitoring.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\monitoring.cs",
+              "RelativeDocumentMoniker": "awein2\\monitoring.cs",
+              "ToolTip": "C:\\Users\\MP\\Data Strucutre\\awein2\\awein2\\monitoring.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\MP\\Data Strucutre\\awein2\\awein2\\monitoring.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:41:01.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "monitoring.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\monitoring.cs",
+              "RelativeDocumentMoniker": "awein2\\monitoring.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\monitoring.cs",
+              "RelativeToolTip": "awein2\\monitoring.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAIA7wDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:44:41.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "approval.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\approval.cs",
+              "RelativeDocumentMoniker": "awein2\\approval.cs",
+              "ToolTip": "C:\\Users\\MP\\Data Strucutre\\awein2\\awein2\\approval.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\MP\\Data Strucutre\\awein2\\awein2\\approval.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:58:49.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "addingBooths.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\addingBooths.cs",
+              "RelativeDocumentMoniker": "awein2\\addingBooths.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\addingBooths.cs",
+              "RelativeToolTip": "awein2\\addingBooths.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAApwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:27:12.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "approval.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\approval.cs",
+              "RelativeDocumentMoniker": "awein2\\approval.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\approval.cs",
+              "RelativeToolTip": "awein2\\approval.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwGAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:00:24.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "boothAllocation.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothAllocation.Designer.cs",
+              "RelativeDocumentMoniker": "awein2\\boothAllocation.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\boothAllocation.Designer.cs",
+              "RelativeToolTip": "awein2\\boothAllocation.Designer.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAAABUBAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:28:53.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "eventSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\eventSchedule.cs",
+              "RelativeDocumentMoniker": "awein2\\eventSchedule.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\awein2\\awein2\\awein2\\eventSchedule.cs",
+              "RelativeToolTip": "awein2\\eventSchedule.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAhwGAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:12:29.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
